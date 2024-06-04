@@ -1,0 +1,10 @@
+# Ignore zip files
+*.zip
+
+# Ignore JSON files
+*.json
+
+# Ignore files or directories named "npm"
+npm
+local
+jupyter
