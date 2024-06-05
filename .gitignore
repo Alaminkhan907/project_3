@@ -1,3 +1,18 @@
+# Ignore all files and directories that start with a dot (.)
+.*
+
+# Ignore all files and directories that end with a tilde (~)
+*~
+
+# Ignore all files and directories that start with a pound sign (#)
+#*
+
+# Ignore all files and directories that start with a dollar sign ($)
+$*
+
+# Ignore all files and directories that start with an underscore (_)
+_*
+
 # Ignore zip files
 *.zip
 
